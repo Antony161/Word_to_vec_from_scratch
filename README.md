@@ -1,7 +1,7 @@
 ## Word_to_vec_from_scratch
 
 
-## Model Architecture
+
 
 ### Skip gram Model Architecture
 
