@@ -1,9 +1,9 @@
-## Word_to_vec_from_scratch
+### Word_to_vec_from_scratch
 
 
 
 
-### Skip gram Model Architecture
+## Skip gram Model Architecture
 
 
 ## The main file word_to_vec contains the python implementation
